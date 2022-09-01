@@ -1,7 +1,7 @@
 name: datetimelist
-description: A new Flutter project.
+description: Animated Date & Time Horizontal List
 version: 0.0.1
-homepage:
+homepage: https://github.com/zaid701/DateTimeList
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
